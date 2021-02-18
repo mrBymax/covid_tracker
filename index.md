@@ -1,12 +1,14 @@
-## COVID TRACKER
+# COVID TRACKER
 
 This is a very simple Covid Tracker based on a [Covid-19 API](https://covid19.mathdro.id/api) made for a school project
 
-È necessario avere npm | yarn installato e aggiornato (per testare in localhost utilizzare il comando 'npm start' | 'yarn start')
-È necessario installare tutti i pacchetti per il corretto funzionamento
+It is necessary to have *npm | yarn* installed and updated (to test in localhost use the command 'npm start' | 'yarn start')
+All packages must be installed for proper operation
 
-*Per qualsiasi problema contattare: federico.bertossi@studenti.malignani.ud.it
+*For every problem, please contact: federico.bertossi@studenti.malignani.ud.it*
 
-**Setup:
+![Demo Screenshot](https://github.com/mrBymax/covid_tracker/blob/main/Screenshot%202021-02-18%20at%2013.59.22.png)
 
-  run npm i && npm start
+**Setup: **
+
+  * run npm i && npm start
