@@ -9,7 +9,7 @@ All packages must be installed for proper operation
 
 *For every problem, please contact: federico.bertossi@studenti.malignani.ud.it*
 
-![Demo Screenshot](./main/Screenshot%202021-02-18%20at%2013.59.22.png)
+![Demo Screenshot](https://github.com/mrBymax/covid_tracker/blob/main/Screenshot%202021-02-18%20at%2013.59.22.png)
 
 **Setup:**
 
